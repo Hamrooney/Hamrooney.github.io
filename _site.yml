@@ -1,0 +1,43 @@
+name: Yessine Hamrouni
+output_dir: '.'
+navbar:
+  title: Yessine Hamrouni
+  type: inverse
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Projects
+    icon: fa-file fa-lg
+    menu: 
+      - text: Machine Learning econometrix
+        href: https://ahmedhamrouni.shinyapps.io/econometrie/
+      - text: Bayesian model
+        href: https://www.kaggle.com/redangel/bayesian-model-using-tunisian-data
+      - text: Hotel fee comparator
+        href: https://yessinebessrour.shinyapps.io/Stage2/
+  
+  - text: My CV
+    href: CV English.pdf
+  - text: My school site
+    href: http://www.essai.rnu.tn/accueil.htm
+  - text: Data
+    menu:
+      - text: Tunisian energy and environment dataset
+        href: https://www.kaggle.com/redangel/tunisian-energy-and-environment-dataset
+      
+  right:
+  - icon: fa-github fa-lg
+    href: https://github.com/Hamrooney
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/yessinehamrouni/
+  - icon: fa-facebook fa-lg
+    href: https://www.facebook.com/yessine.hmr
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+

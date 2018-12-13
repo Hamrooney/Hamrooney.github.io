@@ -1,0 +1,32 @@
+---
+---
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+
+<img src="img.jpg" style="float: right; width:15%; border:1px solid; margin-right: 20px" align="left">
+
+
+  
+# {.tabset .tabset-fade .tabset-pills}
+
+## About me
+
+
+Currently a third-year engineering Student at the Higher School of Statistics and DATA Analysis in Tunisia.
+
+I created this website to allow an easier access to my cv , my project and my work as I am looking for an internship offer of 4 to 6 months to crown my professional career as an engineer in statistics.
+ 
+
+To [contact me](mailto:hamrouniyessine@gmail.com) hamrouniyessine@.gmail.com
+
+
+
+
+
+
+
+
